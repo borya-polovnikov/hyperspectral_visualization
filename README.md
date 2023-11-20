@@ -16,13 +16,9 @@ The script includes three classes:
 
 Note that matpotlib version 3.5 or higher is needed to allow for the RangeSlider widget that is used to select the spectral range to be considered.
 
+
 # Interface
 
-![full_map](https://github.com/borya-polovnikov/hyperspectral_visualization/assets/147932035/efd1796e-a376-437f-9e98-51c44f82e261)
 
-
-# Taking linecuts
-
-![taking_a_linecut](https://github.com/borya-polovnikov/hyperspectral_visualization/assets/147932035/81a6f55a-7c27-4a50-8d8d-9ff427c26511)
-
+https://github.com/borya-polovnikov/hyperspectral_visualization_tool/assets/147932035/d5130cc3-825e-4395-aea3-356b79121765
 
